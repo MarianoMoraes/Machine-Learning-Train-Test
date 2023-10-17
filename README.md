@@ -4,7 +4,6 @@
 - Exercici 1
 Parteix el conjunt de dades adjunt en train i test. Estudia els dos conjunts per separat, a nivell descriptiu.
 
-També adjunt trobaràs una descripció de les diferents variables del dataset.
 
 
 
