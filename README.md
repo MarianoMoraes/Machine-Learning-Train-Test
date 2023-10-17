@@ -1,8 +1,5 @@
 # Tasca_M5_T02
 
-Pendent: Fer una tramesa Pendent: Rebre una qualificació
-Descripció
-Exercicis de Train-Test amb ScikitLearn a partir d'un dataset amb informació sobre les vivendes de Houston.
 
 - Exercici 1
 Parteix el conjunt de dades adjunt en train i test. Estudia els dos conjunts per separat, a nivell descriptiu.
